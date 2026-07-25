@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="670e8272-6c4f-4368-9006-4d02af0e2302" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lysovanra/springdboracle/app/adviser/DBConnectionHandlerError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lysovanra/springdboracle/app/configuration/dao/IBaseDBDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lysovanra/springdboracle/app/configuration/database/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lysovanra/springdboracle/feature/demo/service/DemoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-database.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lysovanra/springdboracle/app/configuration/IBaseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lysovanra/springdboracle/app/configuration/database/IBaseRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lysovanra/springdboracle/core/util/BaseDBDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lysovanra/springdboracle/app/configuration/dao/BaseDBDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lysovanra/springdboracle/database/config/OracleConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lysovanra/springdboracle/app/configuration/database/config/OracleConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.database.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="670e8272-6c4f-4368-9006-4d02af0e2302" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,5 +97,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete connection db oracle" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete connection db oracle" />
   </component>
 </project>
