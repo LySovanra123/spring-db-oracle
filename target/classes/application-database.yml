@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:oracle:thin:@localhost:1521/XEPDB1
+    username: tcdev
+    password: 12345
+    driver-class-name: oracle.jdbc.OracleDriver
+    hikari:
+      minimum-idle: 5
+      maximum-pool-size: 20
+      idle-timeout: 30000
+      pool-name: OracleHikariCP
+      max-lifetime: 2000000
+      connection-timeout: 30000
+
+  jpa:
+    database-platform: org.hibernate.dialect.OracleDialect
+    show-sql: true

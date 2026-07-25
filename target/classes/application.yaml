@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-db-oracle
+  profiles:
+    active: database
+
+server:
+  port: 8080
+  servlet:
+    context-path: "/database"

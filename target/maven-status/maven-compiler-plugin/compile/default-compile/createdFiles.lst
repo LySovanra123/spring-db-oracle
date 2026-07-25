@@ -1,0 +1,8 @@
+com\lysovanra\springdboracle\feature\demo\dto\response\DemoResponse.class
+com\lysovanra\springdboracle\app\configuration\dao\IBaseDBDao.class
+com\lysovanra\springdboracle\feature\demo\controller\DemoController.class
+com\lysovanra\springdboracle\feature\demo\service\impl\DemoServiceImpl.class
+com\lysovanra\springdboracle\app\configuration\dao\BaseEntity.class
+com\lysovanra\springdboracle\database\tcdev\entity\DemoEntity.class
+com\lysovanra\springdboracle\database\tcdev\repository\DemoRepository.class
+com\lysovanra\springdboracle\feature\demo\dto\request\DemoRequest.class
